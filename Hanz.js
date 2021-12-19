@@ -3028,7 +3028,7 @@ but = [
           { buttonId: `${prefix}info`, buttonText: { displayText: 'INFO' }, type: 1 },
           { buttonId: `${prefix}owner`, buttonText: { displayText: 'OWNER' }, type: 1 }
         ]
-        sendButImage(from, teks, "©Zero YT7", gam, but)
+        sendButImage(from, teks, "HANZ々OFC彡", gam, but)
 break
 
 //===================================================MENU LIST======================================================================//
