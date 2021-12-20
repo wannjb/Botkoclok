@@ -101,7 +101,7 @@ botname = setting.BotName
 lolkey = setting.HanzKey
 Hanzkey = setting.hanzKey
 ownername = setting.OwnerName
-asutes = 'Wong々Hore Team[🔥]'
+asutes = 'HANZ々OFC彡[BOTZ🎭]'
 creator = 'ʜᴀɴᴢ々ᴏꜰᴄ' // GAK USAH DI UBAH
 fakeimage = fs.readFileSync("./media/thumnail.jpg")
 //━━━━━━━━━━━━━━━[ MODUL EXPORTS ]━━━━━━━━━━━━━━━━━//
